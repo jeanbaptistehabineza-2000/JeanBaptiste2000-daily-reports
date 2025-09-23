@@ -1,2 +1,2 @@
 # JeanBaptiste2000-daily-reports
-Python
+This repository contains my daily reports for the PyPro-SCiDaS course
